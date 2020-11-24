@@ -1,6 +1,6 @@
 {
   "name": "ssyserver",
-  "version": "12.18.4",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
